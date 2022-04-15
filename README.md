@@ -5,7 +5,7 @@ artificial intelligence.
 My goals are:
 
 - To implement flowSOM unsupervised clustering to flow cytometric data (natively in R/Rmd).
-- To be proficient with Python/Jupiter and complete Kaggle projects.  
+- To be proficient with Python/Jupyter and complete Kaggle projects.  
 
 https://www.linkedin.com/in/tompham97/
 
