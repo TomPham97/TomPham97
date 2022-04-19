@@ -1,11 +1,11 @@
 # Welcome to my Github!
-My name is Tom, and I am interested in data science. I want to combine my biology/research background with machine learning and/or
+My name is Tom, and I want to combine my biology/research background with machine learning and/or
 artificial intelligence.
 
-My goals are:
+My data science learning goals are:
 
 - To implement flowSOM unsupervised clustering to flow cytometric data (natively in R/Rmd).
-- To be proficient with Python/Jupyter and complete Kaggle projects.  
+- To be proficient with Python/Jupyter and complete Kaggle projects.
 
 For more details on my professional and educational backgrounds, here's my [LinkedIn](https://www.linkedin.com/in/tompham97/).
 
