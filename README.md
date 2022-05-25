@@ -5,7 +5,7 @@ artificial intelligence.
 My data science learning goals are:
 
 - To implement flowSOM unsupervised clustering to flow cytometric data (natively in R/Rmd).
-- To be proficient with Python/Jupyter and complete Kaggle projects.
+- To be proficient with Python/Jupyter and complete Kaggle projects | [Kaggle profile](https://www.kaggle.com/tompham97).
 
 For more details on my professional and educational backgrounds, here's my [LinkedIn](https://www.linkedin.com/in/tompham97/).
 
