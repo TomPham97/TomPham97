@@ -10,7 +10,7 @@ Tools and platforms in which I am proficient at:
 <img src="images/fastai_small.png" height="60" alt="Fast.ai API">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/TensorFlow-logo.png" height="50" alt="TensorFlow">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/SQLite-logo.png" height="60" alt="SQLite">&nbsp;&nbsp;
-<img src="images/GitHub-Logo.png" height="50" alt="GitHub">
+<img src="images/GitHub-Logo.png#gh-light-mode-only" height="50" alt="GitHub">
 
 For personal and job opportunity inquiries, feel free to reach out through any of the means below:
 
