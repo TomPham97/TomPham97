@@ -13,7 +13,7 @@ Tools and platforms in which I am proficient at:
 <img src="images/TensorFlow-logo.png" height="50" alt="TensorFlow">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/SQLite-logo.png#gh-light-mode-only" height="60" alt="SQLite">
 <img src="images/SQLite-whitelogo.png#gh-dark-mode-only" height="35" alt="SQLite">&nbsp;&nbsp;
-<img src="images/GitHub-Logo.png#gh-light-mode-only" height="50" alt="GitHub">
+<img src="images/GitHub-Logo.png#gh-light-mode-only" height="50" alt="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/GitHub-logowhite.png#gh-dark-mode-only" height="50" alt="GitHub">
 
 For personal and job opportunity inquiries, feel free to reach out through any of the means below:
