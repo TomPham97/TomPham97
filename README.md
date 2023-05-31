@@ -3,7 +3,7 @@ I apply machine learning and deep learning tools to extract value from the incre
 
 For personal and job opportunities inquiries, feel free to reach out through any of the means below:
 
-[<img src="images/LI-Logo.png" height="20">](https://www.linkedin.com/in/tompham97/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="images/Xing_logo.png" height="25">](https://www.xing.com/profile/Tom_Pham051412/cv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="images/Gmail_Logo_512px.png" height="22">](tom.pham.hcm@gmail.com)
+[<img src="images/LI-Logo.png" height="20">](https://www.linkedin.com/in/tompham97/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="images/Xing_logo.png" height="25">](https://www.xing.com/profile/Tom_Pham051412/cv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="images/Gmail_Logo_512px.png" height="22">](mailto:tom.pham.hcm@gmail.com)
 
 Fun fact: even though I have caffeine intolerance and cannot drink coffee, I am a certified barista!
 <!---
