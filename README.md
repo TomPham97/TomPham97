@@ -1,13 +1,9 @@
 # Welcome to my Github!
-My name is Tom, and I want to combine my biology/research background with machine learning and/or
-artificial intelligence.
+I apply machine learning and deep learning tools to extract value from the increasingly data-driven world. With a concrete foundation in scientific research and cultural experiences from 3 continents, I can promise to bring unique perspectives and solutions to arising problems.
+[LinkedIn](https://www.linkedin.com/in/tompham97/)
+[Xing](https://www.xing.com/profile/Tom_Pham051412/cv)
 
-My data science learning goals are:
-
-- To implement flowSOM unsupervised clustering to flow cytometric data (natively in R/Rmd).
-- To be proficient with Python/Jupyter and complete Kaggle projects | [Kaggle profile](https://www.kaggle.com/tompham97).
-
-For more details on my professional and educational backgrounds, here's my [LinkedIn](https://www.linkedin.com/in/tompham97/).
+For personal and job opportunities inquiry, please reach out at tom.pham.hcm@gmail.com
 
 Fun fact: even though I have caffeine intolerance and cannot drink coffee, I am a certified barista!
 <!---
