@@ -4,13 +4,17 @@ I apply machine learning and deep learning tools to extract value from the incre
 Tools and platforms in which I am proficient at:
 
 <img src="images/Python-logo.png" height="50" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/Jupyter-logo.png" height="50" alt="Jupyter notebook">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Jupyter-logo.png#gh-light-mode-only" height="50" alt="Jupyter notebook">
+<img src="images/Jupyter-whitebackground-logo.png#gh-dark-mode-only" height="60" alt="Jupyter notebook">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/NumPy-logo.png" height="53" alt="NumPy">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/Pandas-darklogo.png" height="50" alt="pandas">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Pandas-darklogo.png#gh-light-mode-only" height="50" alt="pandas">
+<img src="images/pandas-whitelogo.svg#gh-dark-mode-only" height="50" alt="pandas">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/fastai_small.png" height="60" alt="Fast.ai API">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/TensorFlow-logo.png" height="50" alt="TensorFlow">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/SQLite-logo.png" height="60" alt="SQLite">&nbsp;&nbsp;
+<img src="images/SQLite-logo.png#gh-light-mode-only" height="60" alt="SQLite">
+<img src="images/SQLite-whitelogo.png#gh-dark-mode-only" height="35" alt="SQLite">&nbsp;&nbsp;
 <img src="images/GitHub-Logo.png#gh-light-mode-only" height="50" alt="GitHub">
+<img src="images/GitHub-logowhite.png#gh-dark-mode-only" height="50" alt="GitHub">
 
 For personal and job opportunity inquiries, feel free to reach out through any of the means below:
 
