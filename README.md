@@ -1,9 +1,31 @@
 # Welcome to my Github!
 I apply machine learning and deep learning tools to extract value from the increasingly data-driven world. With a concrete foundation in scientific research and cultural experiences from 3 continents, I can promise to bring unique perspectives and solutions to arising problems.
 
-For personal and job opportunities inquiries, feel free to reach out through any of the means below:
+Tools and platforms in which I am proficient at:
 
-[<img src="images/LI-Logo.png" height="20">](https://www.linkedin.com/in/tompham97/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="images/Xing_logo.png" height="25">](https://www.xing.com/profile/Tom_Pham051412/cv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="images/Gmail_Logo_512px.png" height="22">](mailto:tom.pham.hcm@gmail.com)
+<img src="images/Python-logo.png" height="50" alt="Python">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Jupyter-logo.png" height="50" alt="Jupyter notebook">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/NumPy-logo.png" height="53" alt="NumPy">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Pandas-darklogo.png" height="50" alt="pandas">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/fastai_small.png" height="60" alt="Fast.ai API">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/TensorFlow-logo.png" height="50" alt="TensorFlow">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/SQLite-logo.png" height="60" alt="SQLite">
+&nbsp;&nbsp;
+<img src="images/GitHub-Logo.png" height="50" alt="GitHub">
+
+For personal and job opportunity inquiries, feel free to reach out through any of the means below:
+
+[<img src="images/LI-Logo.png" height="20">](https://www.linkedin.com/in/tompham97/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="images/Xing_logo.png" height="25">](https://www.xing.com/profile/Tom_Pham051412/cv)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="images/Gmail_Logo_512px.png" height="22">](mailto:tom.pham.hcm@gmail.com)
 
 Fun fact: even though I have caffeine intolerance and cannot drink coffee, I am a certified barista!
 <!---
