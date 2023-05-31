@@ -1,9 +1,9 @@
 # Welcome to my Github!
 I apply machine learning and deep learning tools to extract value from the increasingly data-driven world. With a concrete foundation in scientific research and cultural experiences from 3 continents, I can promise to bring unique perspectives and solutions to arising problems.
 
-![/images/LI-Logo.png](https://www.linkedin.com/in/tompham97/)
+[![Profile on LinkedIn](images/LI-Logo.png)](https://www.linkedin.com/in/tompham97/)
 
-![/images/Xing_logo.png](https://www.xing.com/profile/Tom_Pham051412/cv)
+[![Profile on Xing](images/Xing_logo.png)](https://www.xing.com/profile/Tom_Pham051412/cv)
 
 For personal and job opportunities inquiry, please reach out at tom.pham.hcm@gmail.com
 
